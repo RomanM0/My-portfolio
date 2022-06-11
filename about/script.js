@@ -7,3 +7,6 @@ header_about.onclick = function(){
 header_home.onclick = function(){
     window.location.href = '../index.html'
 }
+github_link_profile.onclick = function(){
+    window.location.href = 'https://github.com/RomanM0'
+}
